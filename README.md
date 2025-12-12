@@ -40,7 +40,15 @@
 
 <div align="center">
 
-**Готов к коллаборациям и новым идеям**
+<p align="center">
+  <a href="https://t.me/imsalam4ik">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://discord.com/users/qwins_one">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  **Готов к коллаборациям и новым идеям**
+</p>
 
 </div>
 
