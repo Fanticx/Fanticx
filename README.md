@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
-**Готов к коллаборациям и новым идеям**
+Готов к коллаборациям и новым идеям
 </div>
 
 <p align="center">
