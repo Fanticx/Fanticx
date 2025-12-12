@@ -48,9 +48,8 @@
   <a href="https://discord.com/users/qwins_one">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  **Готов к коллаборациям и новым идеям**
 </p>
-
+**Готов к коллаборациям и новым идеям**
 </div>
 
 <p align="center">
