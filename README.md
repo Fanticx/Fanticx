@@ -1,6 +1,6 @@
 <div align="center">
 
-# Я qWins - Java-разработчик с уверенным Middle уровнем
+# Я qWins - Java-разработчик с Junior уровнем
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
