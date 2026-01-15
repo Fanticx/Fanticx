@@ -16,13 +16,6 @@
 - 🟦 Kotlin - использую в Gradle и иногда в проектах
 - ⚡ C++ (Junior) - изучаю низкоуровневое программирование
 
-### 🏆 Мои трофеи
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Fanticx&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Трофеи qWins" />
-  </a>
-</p>
-
 ### 📊 Статистика GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fanticx&show_icons=true&theme=radical&hide_border=true" alt="Статистика" />
