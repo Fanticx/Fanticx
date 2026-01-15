@@ -16,10 +16,6 @@
 - 🟦 Kotlin - использую в Gradle и иногда в проектах
 - ⚡ C++ (Junior) - изучаю низкоуровневое программирование
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanticx&layout=compact&theme=radical&hide_border=true" alt="Топ языков" />
-</p>
-
 ### ⚡ Самые популярные языки
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fanticx&theme=radical" alt="Самые используемые языки" />
