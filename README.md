@@ -16,12 +16,6 @@
 - 🟦 Kotlin - использую в Gradle и иногда в проектах
 - ⚡ C++ (Junior) - изучаю низкоуровневое программирование
 
-### 📊 Статистика GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fanticx&show_icons=true&theme=radical&hide_border=true" alt="Статистика" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fanticx&theme=radical&hide_border=true" alt="Стрик" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanticx&layout=compact&theme=radical&hide_border=true" alt="Топ языков" />
 </p>
